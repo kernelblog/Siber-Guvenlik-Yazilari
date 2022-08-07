@@ -5,7 +5,7 @@ Selamlar!
 
 Sizler için gözde yazılarımızı ve bizim beğendiğimiz yazıları bir araya topladık.
 
-Sizde katkıda bulunmak istiyorsanız, kendi yazılarınızı veya başkalarının minnak güzel yazıları ekleyebilirsiniz.
+Sizde katkıda bulunmak istiyorsanız, kendi yazılarınızı veya başkalarının minnak güzel yazılarını ekleyebilirsiniz.
 
 ## İletişim
 
