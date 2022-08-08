@@ -37,7 +37,6 @@ Metasploit:
 
 [Steganografi Nedir Nasıl Uygulanır?](https://kernelblog.org/2021/05/steganografi-nedir-nasil-uygulanir/ "Steganografi Nedir Nasıl Uygulanır?")
 
-[Exploit Geliştirmeye Giriş](https://kernelblog.org/2019/07/exploit-gelistirmeye-giris/ "Exploit Geliştirmeye Giriş")
 
 Hak Yükseltme:
 - - [Hak Yükseltme Aşaması](https://kernelblog.org/2019/07/hak-yukseltme-asamasi/ "Hak Yükseltme Aşaması")
@@ -47,6 +46,14 @@ Hak Yükseltme:
 [Xss Zaafiyeti: Sömürme Ve Korunma](https://kernelblog.org/2019/06/xss-zaafiyeti-somurme-ve-korunma/ "Xss Zaafiyeti: Sömürme Ve Korunma")
 
 [Exploitation Örnekleri](https://kernelblog.org/2019/06/exploitation-ornekleri/ "Exploitation Örnekleri")
+
+Binary Exploitation:
+
+- - [Exploit Geliştirmeye Giriş](https://kernelblog.org/2019/07/exploit-gelistirmeye-giris/ "Exploit Geliştirmeye Giriş")
+- - [Protostar Stack Serisi](https://kernelblog.org/2021/02/protostar-stack-serisi/ "Protostar Stack Serisi")
+- - [Linux ASLR Bypass](https://kernelblog.org/2021/03/linux-aslr-bypass/ "Linux ASLR Bypass")
+- - [VulnHub / Netstart Write Up](https://kernelblog.org/2020/12/vulnhub-netstart-write-up/ "VulnHub / Netstart Write Up")
+- - [TryHackMe Brainpan 1 Çözümü](https://kernelblog.org/2022/07/tryhackme-brainpan-1-cozumu/ "TryHackMe Brainpan 1 Çözümü")
 
 ## Linux
 
