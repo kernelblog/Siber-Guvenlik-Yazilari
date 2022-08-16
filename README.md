@@ -7,6 +7,17 @@ Sizler için gözde yazılarımızı ve bizim beğendiğimiz yazıları bir aray
 
 Sizde katkıda bulunmak istiyorsanız, kendi yazılarınızı veya başkalarının minnak güzel yazılarını ekleyebilirsiniz.
 
+## KernelBlog Zafiyetli Makinelerimiz
+[✨Zafiyetli Makinelerimiz✨](https://kernelblog.org/zafiyetli-makinelerimiz/ "KernelBlog Zafiyetli Makineler")
+
+- - [KB-VULN](https://kernelblog.org/kb-vuln "KB-VULN")
+- - [KB-VULN:2](https://kernelblog.org/kb-vuln2 "KB-VULN:2")
+- - [KB-VULN:3](https://kernelblog.org/kb-vuln3 "KB-VULN:3")
+- - [KB-VULN:4 Final](https://kernelblog.org/kb-vuln4 "KB-VULN:4")
+- - [THALES](https://kernelblog.org/thales/ "THALES")
+- - [THALES:2](https://kernelblog.org/thales-2 "THALES:2")
+
+
 ## İletişim
 
 [KernelBlog](https://kernelblog.org)
@@ -15,7 +26,7 @@ Sizde katkıda bulunmak istiyorsanız, kendi yazılarınızı veya başkaların�
 
 [Mail](mailto:info@kernelblog.org)
 
-## Siber Güvenlik
+## ✨Siber Güvenlik✨
 [Pasif Bilgi Toplama: Shodan Kullanımı](https://kernelblog.org/2018/12/pasif-bilgi-toplama-shodan-kullanimi/ "Pasif Bilgi Toplama: Shodan Kullanımı")
 
 [Aktif Bilgi Toplama:Nmap Kullanımı](https://kernelblog.org/2019/05/aktif-bilgi-toplamanmap-kullanimi/ "Aktif Bilgi Toplama:Nmap Kullanımı")
@@ -55,11 +66,11 @@ Binary Exploitation:
 - - [VulnHub / Netstart Write Up](https://kernelblog.org/2020/12/vulnhub-netstart-write-up/ "VulnHub / Netstart Write Up")
 - - [TryHackMe Brainpan 1 Çözümü](https://kernelblog.org/2022/07/tryhackme-brainpan-1-cozumu/ "TryHackMe Brainpan 1 Çözümü")
 
-## Linux
+## ✨Linux✨
 
 [Win-KeX | Windows Alt Sistemi İçin Kurulum (Kali Linux GUI)](https://kernelblog.org/2021/09/win-kex-windows-alt-sistemi-icin-kurulum-kali-linux-gui/ "Win-KeX | Windows Alt Sistemi İçin Kurulum (Kali Linux GUI)")
 
 
-## Ağ
+## ✨Ağ✨
 
 [HSRP (Hot Standby Router Protocol – Hazır Yedekteki Yönlendirici Protokolü)](https://kernelblog.org/2021/09/win-kex-windows-alt-sistemi-icin-kurulum-kali-linux-gui/ "HSRP (Hot Standby Router Protocol – Hazır Yedekteki Yönlendirici Protokolü)")
