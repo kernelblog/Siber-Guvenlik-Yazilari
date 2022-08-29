@@ -20,11 +20,11 @@ Sizde katkıda bulunmak istiyorsanız, kendi yazılarınızı veya başkaların�
 
 ## İletişim
 
-[KernelBlog](https://kernelblog.org)
+- [KernelBlog](https://kernelblog.org)
 
-[Telegram](https://t.me/kernelblog)
+- [Telegram](https://t.me/kernelblog)
 
-[Mail](mailto:info@kernelblog.org)
+- [Mail](mailto:info@kernelblog.org)
 
 ## ✨Siber Güvenlik✨
 [Pasif Bilgi Toplama: Shodan Kullanımı](https://kernelblog.org/2018/12/pasif-bilgi-toplama-shodan-kullanimi/ "Pasif Bilgi Toplama: Shodan Kullanımı")
