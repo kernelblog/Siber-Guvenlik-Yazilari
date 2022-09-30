@@ -68,7 +68,7 @@ Binary Exploitation:
 
 ## ✨Linux✨
 
-[Win-KeX | Windows Alt Sistemi İçin Kurulum (Kali Linux GUI)](https://kernelblog.org/2021/09/win-kex-windows-alt-sistemi-icin-kurulum-kali-linux-gui/ "Win-KeX | Windows Alt Sistemi İçin Kurulum (Kali Linux GUI)")
+[Win-KeX | Windows Alt Sistemi İçin Kurulum Kali Linux GUI](https://kernelblog.org/2021/09/win-kex-windows-alt-sistemi-icin-kurulum-kali-linux-gui/ "Win-KeX | Windows Alt Sistemi İçin Kurulum (Kali Linux GUI)")
 
 
 ## ✨Ağ✨
