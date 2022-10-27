@@ -56,6 +56,8 @@ Hak Yükseltme:
 
 - - [Hak Yükseltme Aşaması 2](https://kernelblog.org/2019/07/hak-yukseltme-asamasi-2/ "Hak Yükseltme Aşaması 2")
 
+[Windows Sistemlerde Yetki Yükseltme](https://kernelblog.org/2022/10/windows-sistemlerde-yetki-yukseltme/" Windows Sistemlerde Yetki Yükseltme")
+
 [Xss Zaafiyeti: Sömürme Ve Korunma](https://kernelblog.org/2019/06/xss-zaafiyeti-somurme-ve-korunma/ "Xss Zaafiyeti: Sömürme Ve Korunma")
 
 [Exploitation Örnekleri](https://kernelblog.org/2019/06/exploitation-ornekleri/ "Exploitation Örnekleri")
