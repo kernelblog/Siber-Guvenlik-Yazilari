@@ -73,6 +73,9 @@ IDS/IPS:
 
 - [Win-KeX - Windows Alt Sistemi İçin Kurulum Kali Linux GUI](https://kernelblog.org/2021/09/win-kex-windows-alt-sistemi-icin-kurulum-kali-linux-gui/ "Win-KeX - Windows Alt Sistemi İçin Kurulum (Kali Linux GUI)")
 - [Temel Linux Komutları - Linux Öğreniyorum](https://kernelblog.org/2018/11/linux-ogreniyorum/)
+- [Linux Güvenliği [1] – Dosya İzinleri ve Kullanıcı Yönetimi](https://kernelblog.org/2024/09/linux-guvenligi-1-dosya-izinleri-ve-kullanici-yonetimi/)
+- [Linux Güvenliği [2] – Güvenlik Araçları ve Güvenlik Duvarı](https://kernelblog.org/2024/09/linux-guvenligi-2-guvenlik-araclari-ve-guvenlik-duvari/)
+- [Linux Güvenliği [3] – Gelişmiş Erişim Kontrolü: SELinux ve AppArmor ile Uygulama Kısıtlamaları](https://kernelblog.org/2025/10/linux-guvenligi-3-gelismis-erisim-kontrolu-selinux-ve-apparmor-ile-uygulama-kisitlamalari/)
 
 
 ## ✨Ağ✨
